@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1728605073 source:c:\users\coron\onedrive\documents\utn\2c- programacion ii\tp integrador\tpi\main.cpp
+	<iostream>
+	"Usuario.h"
+	"Cliente.h"
+
+1728605344 c:\users\coron\onedrive\documents\utn\2c- programacion ii\tp integrador\tpi\usuario.h
+	<iostream>
+
+1728605528 source:c:\users\coron\onedrive\documents\utn\2c- programacion ii\tp integrador\tpi\cliente.cpp
+	"Cliente.h"
+
+1728605528 c:\users\coron\onedrive\documents\utn\2c- programacion ii\tp integrador\tpi\cliente.h
+	<iostream>
+	"Usuario.h"
+
+1728605423 source:c:\users\coron\onedrive\documents\utn\2c- programacion ii\tp integrador\tpi\usuario.cpp
+	"Usuario.h"
+	<cstring>
+
+1728605528 source:c:\users\coron\onedrive\documents\utn\2c- programacion ii\tp integrador\tpi-progii\cliente.cpp
+	"Cliente.h"
+
+1728694797 c:\users\coron\onedrive\documents\utn\2c- programacion ii\tp integrador\tpi-progii\cliente.h
+	<iostream>
+	"Usuario.h"
+
+1728694804 c:\users\coron\onedrive\documents\utn\2c- programacion ii\tp integrador\tpi-progii\usuario.h
+	<iostream>
+
+1728605073 source:c:\users\coron\onedrive\documents\utn\2c- programacion ii\tp integrador\tpi-progii\main.cpp
+	<iostream>
+	"Usuario.h"
+	"Cliente.h"
+
+1728605423 source:c:\users\coron\onedrive\documents\utn\2c- programacion ii\tp integrador\tpi-progii\usuario.cpp
+	"Usuario.h"
+	<cstring>
+
+1728605555 source:c:\users\coron\onedrive\documents\utn\2c- programacion ii\tp integrador\tpi-progii\responsable.cpp
+	"Responsable.h"
+
+1728694810 c:\users\coron\onedrive\documents\utn\2c- programacion ii\tp integrador\tpi-progii\responsable.h
+	<iostream>
+	"Usuario.h"
+
+1728694553 source:c:\users\coron\onedrive\documents\utn\2c- programacion ii\tp integrador\tpi-progii\fecha.cpp
+	"Fecha.h"
+
+1728694554 c:\users\coron\onedrive\documents\utn\2c- programacion ii\tp integrador\tpi-progii\fecha.h
+	<string>
+
