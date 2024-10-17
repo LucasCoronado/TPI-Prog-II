@@ -50,3 +50,43 @@
 1728694554 c:\users\coron\onedrive\documents\utn\2c- programacion ii\tp integrador\tpi-progii\fecha.h
 	<string>
 
+1729190391 source:c:\users\coron\onedrive\documents\utn\2c- programacion ii\tp integrador\tpi-prog-ii\cliente.cpp
+	"Cliente.h"
+
+1729189897 c:\users\coron\onedrive\documents\utn\2c- programacion ii\tp integrador\tpi-prog-ii\cliente.h
+	<iostream>
+	"Usuario.h"
+
+1728694804 c:\users\coron\onedrive\documents\utn\2c- programacion ii\tp integrador\tpi-prog-ii\usuario.h
+	<iostream>
+
+1728694553 source:c:\users\coron\onedrive\documents\utn\2c- programacion ii\tp integrador\tpi-prog-ii\fecha.cpp
+	"Fecha.h"
+
+1728694554 c:\users\coron\onedrive\documents\utn\2c- programacion ii\tp integrador\tpi-prog-ii\fecha.h
+	<string>
+
+1729190528 source:c:\users\coron\onedrive\documents\utn\2c- programacion ii\tp integrador\tpi-prog-ii\main.cpp
+	<iostream>
+	"Usuario.h"
+	"Cliente.h"
+
+1729190337 source:c:\users\coron\onedrive\documents\utn\2c- programacion ii\tp integrador\tpi-prog-ii\responsable.cpp
+	"Responsable.h"
+
+1729190006 c:\users\coron\onedrive\documents\utn\2c- programacion ii\tp integrador\tpi-prog-ii\responsable.h
+	<iostream>
+	"Usuario.h"
+
+1728605623 source:c:\users\coron\onedrive\documents\utn\2c- programacion ii\tp integrador\tpi-prog-ii\ticket.cpp
+	"Ticket.h"
+
+1729189996 c:\users\coron\onedrive\documents\utn\2c- programacion ii\tp integrador\tpi-prog-ii\ticket.h
+	"Cliente.h"
+	"Responsable.h"
+	"Fecha.h"
+
+1728605423 source:c:\users\coron\onedrive\documents\utn\2c- programacion ii\tp integrador\tpi-prog-ii\usuario.cpp
+	"Usuario.h"
+	<cstring>
+

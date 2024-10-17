@@ -18,7 +18,7 @@ private:
 	char _descripcion[100];
 	char _prioridad[10];  // Puede ser "Alta", "Media", "Baja"
 	char _estado[15];     // Puede ser "Pendiente", "En Progreso","Resuelto", "Cerrado"
-	//Cliente _cliente;
-	//Responsable _responsable;
+	Cliente _cliente;
+	Responsable _responsable;
 	Fecha _fechaCreacion;
 };

@@ -6,6 +6,10 @@ Responsable::Responsable(string nombre, string apellido, string user, string pas
 	//ctor
 }
 
+Responsable::Responsable():Usuario()
+{
+}
+
 Responsable::~Responsable()
 {
 	//dtor

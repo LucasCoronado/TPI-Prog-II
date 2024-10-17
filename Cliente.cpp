@@ -5,6 +5,10 @@ Cliente::Cliente(string nombre, string apellido, string user, string passw):Usua
 {
 }
 
+Cliente::Cliente():Usuario()
+{
+}
+
 Cliente::~Cliente()
 {
 	//dtor

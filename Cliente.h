@@ -6,6 +6,7 @@ class Cliente: public Usuario
 {
     public:
         Cliente(std::string nombre, std::string apellido, std::string user, std::string passw);
+        Cliente();
         ~Cliente();
 
    private:

@@ -7,6 +7,7 @@ class Responsable: public Usuario
 {
 public:
 	Responsable(std::string nombre, std::string apellido, std::string user, std::string passw);
+	Responsable();
 	~Responsable();
 
 private:
